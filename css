@@ -1,0 +1,66 @@
+.container {
+    padding: 5%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    width: relative;
+}
+
+.header {
+    padding-left: 15%;
+    padding-right: 5%;
+}
+
+.headerName {
+    padding-top: 10%;
+    color: darkgray;
+    float: right;
+    font-size: 35px;
+}
+
+.jobTitle {
+    font-size: 20px;
+    float: right;
+    color: darkgray;
+}
+
+.FWname {
+    float: left;
+    padding-top: 1%;
+    color: darkgray;
+}
+
+.line {
+    padding: 0.5%;
+    border: bold;
+}
+
+.body {
+    padding: 10%;
+    padding: 1%;
+}
+
+.footer {
+    padding-bottom: inherit;
+    margin: auto;
+}
+
+.bodyIMG {
+    width: 900px;
+    height: 450px;
+    float: inherit;
+    padding-left: 5%;
+}
+
+.javaIMG {
+    height: relative;
+    width: relative;
+}
+
+.swiftIMG {
+    height: relative;
+    width: relative;
+}
+
+.fendIMG {
+    height: relative;
+    width: relative;
+}
